@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Markdown.MarkdownBold">
+    <Position X="8" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>MarkdownBold.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Markdown.MarkdownElement">
+    <Position X="6" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAABAAAAAAIAAAA=</HashCode>
+      <FileName>MarkdownElement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Markdown.MarkdownHeader">
+    <Position X="0.5" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAA=</HashCode>
+      <FileName>MarkdownHeader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Markdown.MarkdownItalic">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>MarkdownItalic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Markdown.MarkdownLink">
+    <Position X="10.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA=</HashCode>
+      <FileName>MarkdownLink.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Markdown.MarkdownQuote">
+    <Position X="12.5" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>MarkdownQuote.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Markdown.MarkdownSimpleText">
+    <Position X="3" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>MarkdownSimpleText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Markdown.MarkdownText">
+    <Position X="6.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>MarkdownText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Markdown.ElementType">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAACAAAAAAAAAAgIAAAAAAAAAAQAAAAAE=</HashCode>
+      <FileName>ElementType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
