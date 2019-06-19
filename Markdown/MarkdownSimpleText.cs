@@ -10,7 +10,7 @@ namespace Markdown
 
         public override string ToHTML()
         {
-            throw new NotImplementedException();
+            return markdownText;
         }
     }
 }

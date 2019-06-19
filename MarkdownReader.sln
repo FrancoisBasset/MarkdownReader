@@ -5,10 +5,7 @@ VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Markdown", "Markdown\Markdown.csproj", "{7F4856FA-9F1E-4B62-BEB7-EE91969EB9AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkdownConsole", "MarkdownConsole\MarkdownConsole.csproj", "{183A0342-5E5E-4DAE-AD4F-2FDC88E995CA}"
-	ProjectSection(ProjectDependencies) = postProject
-		{7F4856FA-9F1E-4B62-BEB7-EE91969EB9AB} = {7F4856FA-9F1E-4B62-BEB7-EE91969EB9AB}
-	EndProjectSection
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkdownTests", "MarkdownTests\MarkdownTests.csproj", "{9AB9BFF5-D091-4BA6-A4DB-9BBD59415531}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,14 +23,14 @@ Global
 		{7F4856FA-9F1E-4B62-BEB7-EE91969EB9AB}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7F4856FA-9F1E-4B62-BEB7-EE91969EB9AB}.Release|x64.ActiveCfg = Release|Any CPU
 		{7F4856FA-9F1E-4B62-BEB7-EE91969EB9AB}.Release|x64.Build.0 = Release|Any CPU
-		{183A0342-5E5E-4DAE-AD4F-2FDC88E995CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{183A0342-5E5E-4DAE-AD4F-2FDC88E995CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{183A0342-5E5E-4DAE-AD4F-2FDC88E995CA}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{183A0342-5E5E-4DAE-AD4F-2FDC88E995CA}.Debug|x64.Build.0 = Debug|Any CPU
-		{183A0342-5E5E-4DAE-AD4F-2FDC88E995CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{183A0342-5E5E-4DAE-AD4F-2FDC88E995CA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{183A0342-5E5E-4DAE-AD4F-2FDC88E995CA}.Release|x64.ActiveCfg = Release|Any CPU
-		{183A0342-5E5E-4DAE-AD4F-2FDC88E995CA}.Release|x64.Build.0 = Release|Any CPU
+		{9AB9BFF5-D091-4BA6-A4DB-9BBD59415531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AB9BFF5-D091-4BA6-A4DB-9BBD59415531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AB9BFF5-D091-4BA6-A4DB-9BBD59415531}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9AB9BFF5-D091-4BA6-A4DB-9BBD59415531}.Debug|x64.Build.0 = Debug|Any CPU
+		{9AB9BFF5-D091-4BA6-A4DB-9BBD59415531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AB9BFF5-D091-4BA6-A4DB-9BBD59415531}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AB9BFF5-D091-4BA6-A4DB-9BBD59415531}.Release|x64.ActiveCfg = Release|Any CPU
+		{9AB9BFF5-D091-4BA6-A4DB-9BBD59415531}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

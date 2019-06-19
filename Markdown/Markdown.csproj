@@ -42,10 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ElementType.cs" />
-    <Compile Include="Markdown.cs" />
     <Compile Include="MarkdownBold.cs" />
     <Compile Include="MarkdownElement.cs" />
-    <Compile Include="MarkdownImage.cs" />
     <Compile Include="MarkdownItalic.cs" />
     <Compile Include="MarkdownLink.cs" />
     <Compile Include="MarkdownQuote.cs" />
@@ -53,6 +51,9 @@
     <Compile Include="MarkdownText.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="MarkdownHeader.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="MarkdownClassDiagram.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

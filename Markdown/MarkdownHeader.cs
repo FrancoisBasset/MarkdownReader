@@ -1,4 +1,6 @@
-﻿namespace Markdown
+﻿using System;
+
+namespace Markdown
 {
     public class MarkdownHeader : MarkdownText
     {
@@ -10,7 +12,7 @@
 
         public override string ToHTML()
         {
-            throw new System.NotImplementedException();
+            throw new NotImplementedException();
         }
     }
 }
